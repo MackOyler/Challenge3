@@ -1,4 +1,4 @@
-![Password Generator Banner](./PasswordGeneratorBanner.png)
+![Password Generator Banner](https://github.com/MackOyler/RandomPasswordGenerator/blob/main/Assets/PasswordGeneratorBanner.png?raw=true)
 
 # Random Password Generator
 
@@ -7,6 +7,12 @@
 To generate a random password based on user input. 
 Achieved through prompt boxes asking questions, setting the password parameters.
 ```
+## Live Deployment Link
+
+- [Mack's Random Password Generator](https://mackoyler.github.io/RandomPasswordGenerator/)
+
+## Devevlopment Team
+-[Mack Oyler](https://www.linkedin.com/in/mack-oyler/)
 
 ## User Story
 
